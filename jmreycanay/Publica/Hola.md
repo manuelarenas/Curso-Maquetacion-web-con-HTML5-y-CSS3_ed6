@@ -2,11 +2,11 @@
 
 ## Crear un Hola Mundo con Markdown
 
-![Image José Manuel](/MRC.jpg)
+![Image José Manuel](JMRC.jpg)
 
-'''
+´´´
 **HOLA MUNDO :+1:
-'''
+´´´´
        
 ## Ejercicios
   - **1 -** Create una cuenta en GitHub ![Image Check](check.png)
